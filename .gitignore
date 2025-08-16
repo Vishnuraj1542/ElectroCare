@@ -1,0 +1,15 @@
+.venv
+db.sqlite3
+_pycache__/
+.pyc
+.pyo
+.pyd
+.pdb
+.log
+.pot
+.py[cod]
+.so
+.egg
+.egg-info
+dist/
+build/
